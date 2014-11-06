@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "type": "simple",
+    "text": "<p class=\"text-left\">Solve it for \\(x\\).</p> <p> \\(x^2=4\\)</p>",
+    "choices": [
+      {"id": "1", "text": "\\(x=+1\\)", "answer": false, "note": "nothing"},
+      {"id": "2", "text": "\\(x=-1\\)", "answer": false, "note": "good"},
+      {"id": "3", "text": "\\(x=+2\\)", "answer": true, "note": "good"},
+      {"id": "4", "text": "\\(x=-2\\)", "answer": true, "note": "good"}
+    ],
+    "help": "1",
+    "GUID": "E69FAFB5-3CCB-4ED0-A4E1-5E2C03557EAA"
+  },
+  {
+    "id": "2",
+    "type": "simple",
+    "text": "<p class=\"text-left\">Solve it for \\(x\\).</p> <p> \\(x^2=9\\)</p>",
+    "choices": [
+      {"id": "1", "text": "\\(x=+1\\)", "answer": false, "note": "nothing"},
+      {"id": "2", "text": "\\(x=-1\\)", "answer": false, "note": "good"},
+      {"id": "3", "text": "\\(x=+3\\)", "answer": true, "note": "good"},
+      {"id": "4", "text": "\\(x=-3\\)", "answer": true, "note": "good"}
+    ],
+    "help": "1",
+    "GUID": "E69FAFB5-3CCB-4ED0-A4E1-5E2C03557EAA"
+
+  }
+]
